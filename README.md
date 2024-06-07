@@ -1,7 +1,5 @@
 # Blackjack-Game
-    Developed a console-based Blackjack game in Java, simulating the popular casino card
-game. The project showcases skills in object-oriented programming, algorithm design, and user
-interaction through the command line interface.
+- Developed a console-based Blackjack game in Java, simulating the popular casino card game. The project showcases skills in object-oriented programming, algorithm design, and user interaction through the command line interface.
 ## Rules
 - Number cards (2-10) are worth their face value.
 - Face cards (King, Queen, Jack) are worth 10 points each.
