@@ -1,5 +1,5 @@
 # Blackjack-Game
-    Developed a console-based Blackjack game in java, simulating the popular casino card
+    Developed a console-based Blackjack game in Java, simulating the popular casino card
 game. The project showcases skills in object-oriented programming, algorithm design, and user
 interaction through the command line interface.
 ## Rules
